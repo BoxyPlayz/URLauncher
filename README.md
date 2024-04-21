@@ -1,4 +1,4 @@
-#**How to make your own custom app launcher with html**\
+#**How to make a browser protocol that opens an app**\
 **WARNING**\
 ANYTHING DONE WRONG CAN RESULT IN DAMAGE TO YOUR OPERATING SYSTEM. THIS ONLY WORKS ON WINDOWS
 
